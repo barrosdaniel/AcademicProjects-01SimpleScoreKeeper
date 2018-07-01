@@ -71,6 +71,6 @@ function setNumberOfPlaysUpdate(){
     updatePlayingToDisplay();
     reset();
   } else {
-    alert('Unexpected input: Playing to needs to be at least 1.');
+    alert('Unexpected input: Playing to needs to be at least 2.');
   }
 }
